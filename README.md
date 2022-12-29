@@ -3,7 +3,7 @@
 
 - I’m currently working on `python challenge`
 
-- I’m currently learning `python`
+- I’m currently learning `python``java`
 
 <h3 align="left">Languages</h3>
 <p align="left">
